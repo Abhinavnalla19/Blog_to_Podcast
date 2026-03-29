@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# dotenv files (environment variables / secrets)
+.env
+.env.*
+env.local
+
+# VS Code workspace settings (may contain interpreter paths)
+.vscode/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+*.whl
+
+# IDEs
+.idea/
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints
+
+# Keys / credentials
+credentials.json
+google-credentials.json
+service_account.json
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+
+# Database files
+*.db
+*.sqlite3
+
+# Misc
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Optional: audio outputs (uncomment if you want to keep generated audio out of git)
+# *.mp3
+# *.wav

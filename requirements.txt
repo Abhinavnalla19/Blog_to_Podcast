@@ -1,0 +1,10 @@
+agno>=2.2.10
+streamlit>=1.40.2
+openai>=1.102.0
+requests>=2.0.0
+python-dotenv>=1.0.0
+elevenlabs>=1.0.0
+google-genai>=0.4.0
+agno>=2.2.10
+streamlit>=1.40.2
+requests
