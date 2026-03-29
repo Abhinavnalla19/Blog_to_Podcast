@@ -1,8 +1,0 @@
-{
-  "timestamp": "2026-02-16T18:35:17.807955Z",
-  "model": "gemini-2.5-pro-tts",
-  "voice": "Kore",
-  "mime": "audio/wav",
-  "audio_len": 5337974,
-  "candidates": []
-}

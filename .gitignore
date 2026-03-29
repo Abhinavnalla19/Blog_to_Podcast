@@ -1,3 +1,37 @@
+#.gitignore for Blog to podcast project
+# Python
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Editor/IDE
+.vscode/
+extensions/
+
+# Node
+node_modules/
+
+# Packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
